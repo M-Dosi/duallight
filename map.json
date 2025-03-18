@@ -1,0 +1,281 @@
+{
+  "map": [
+    {
+      "id": "0383",
+      "domaine": "www.soccerbet.rs",
+      "created_at": 1742204810953,
+      "urls": [
+        {
+          "url": "https://www.soccerbet.rs/sr/sportsko-kladjenje/fudbal/S",
+          "path": [
+            "sr",
+            "sportsko-kladjenje",
+            "fudbal",
+            "S"
+          ]
+        },
+        {
+          "url": "https://www.soccerbet.rs/sr/lobi-sve",
+          "path": [
+            "sr",
+            "lobi-sve"
+          ]
+        },
+        {
+          "url": "https://www.soccerbet.rs/sr/brojevi-i-virtuali/srb_virt",
+          "path": [
+            "sr",
+            "brojevi-i-virtuali",
+            "srb_virt"
+          ]
+        },
+        {
+          "url": "https://www.soccerbet.rs/sr/gambling-uzivo/srb_live",
+          "path": [
+            "sr",
+            "gambling-uzivo",
+            "srb_live"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4543",
+      "domaine": "www.brazilbet.rs",
+      "created_at": 1742206613444,
+      "urls": [
+        {
+          "url": "https://www.brazilbet.rs/sr/sportsko-kladjenje",
+          "path": [
+            "sr",
+            "sportsko-kladjenje"
+          ]
+        },
+        {
+          "url": "https://www.brazilbet.rs/sr/kladjenje-uzivo",
+          "path": [
+            "sr",
+            "kladjenje-uzivo"
+          ]
+        },
+        {
+          "url": "https://www.brazilbet.rs/sr/games-lobby",
+          "path": [
+            "sr",
+            "games-lobby"
+          ]
+        },
+        {
+          "url": "https://www.brazilbet.rs/sr/games-lobby/live/2/Rulet",
+          "path": [
+            "sr",
+            "games-lobby",
+            "live",
+            "2",
+            "Rulet"
+          ]
+        },
+        {
+          "url": "https://www.brazilbet.rs/sr/games-lobby/virtual/3",
+          "path": [
+            "sr",
+            "games-lobby",
+            "virtual",
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "451c",
+      "domaine": "www.oktagonbet.com",
+      "created_at": 1742208029940,
+      "urls": [
+        {
+          "url": "https://www.oktagonbet.com/mob/sr/sportsko-kladjenje",
+          "path": [
+            "mob",
+            "sr",
+            "sportsko-kladjenje"
+          ]
+        },
+        {
+          "url": "https://www.oktagonbet.com/mob/sr/kladjenje-uzivo",
+          "path": [
+            "mob",
+            "sr",
+            "kladjenje-uzivo"
+          ]
+        },
+        {
+          "url": "https://www.oktagonbet.com/mob/sr/casino-home",
+          "path": [
+            "mob",
+            "sr",
+            "casino-home"
+          ]
+        },
+        {
+          "url": "https://www.oktagonbet.com/mob/sr/virtuelne-igre",
+          "path": [
+            "mob",
+            "sr",
+            "virtuelne-igre"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "242c",
+      "domaine": "www.merkurxtip.rs",
+      "created_at": 1742208608524,
+      "urls": [
+        {
+          "url": "https://www.merkurxtip.rs/sr/sportsko-kladjenje",
+          "path": [
+            "sr",
+            "sportsko-kladjenje"
+          ]
+        },
+        {
+          "url": "https://www.merkurxtip.rs/sr/kladjenje-uzivo",
+          "path": [
+            "sr",
+            "kladjenje-uzivo"
+          ]
+        },
+        {
+          "url": "https://www.merkurxtip.rs/sr/slot-igre",
+          "path": [
+            "sr",
+            "slot-igre"
+          ]
+        },
+        {
+          "url": "https://www.merkurxtip.rs/sr/igre-uzivo",
+          "path": [
+            "sr",
+            "igre-uzivo"
+          ]
+        },
+        {
+          "url": "https://www.merkurxtip.rs/sr/virtuelne-igre",
+          "path": [
+            "sr",
+            "virtuelne-igre"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9e1",
+      "domaine": "www.betole.com",
+      "created_at": 1742209658691,
+      "urls": [
+        {
+          "url": "https://www.betole.com/home",
+          "path": [
+            "home"
+          ]
+        },
+        {
+          "url": "https://www.betole.com/live-offer",
+          "path": [
+            "live-offer"
+          ]
+        },
+        {
+          "url": "https://www.betole.com/games-lobby",
+          "path": [
+            "games-lobby"
+          ]
+        },
+        {
+          "url": "https://www.betole.com/sport/S/overview",
+          "path": [
+            "sport",
+            "S",
+            "overview"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0bda",
+      "domaine": "www.maxbet.rs",
+      "created_at": 1742210434166,
+      "urls": [
+        {
+          "url": "https://www.maxbet.rs/sr/sportsko-kladjenje",
+          "path": [
+            "sr",
+            "sportsko-kladjenje"
+          ]
+        },
+        {
+          "url": "https://www.maxbet.rs/sr/kladjenje-uzivo",
+          "path": [
+            "sr",
+            "kladjenje-uzivo"
+          ]
+        },
+        {
+          "url": "https://www.maxbet.rs/sr/external-frame/easit-slot",
+          "path": [
+            "sr",
+            "external-frame",
+            "easit-slot"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb1d",
+      "domaine": "www.mozzartbet.com",
+      "created_at": 1742212840741,
+      "urls": [
+        {
+          "url": "https://www.mozzartbet.com/sr/kladjenje/sport/1?date=today",
+          "path": [
+            "sr",
+            "kladjenje",
+            "sport",
+            "1?date=today"
+          ]
+        },
+        {
+          "url": "https://www.mozzartbet.com/sr/uzivo/sport/all",
+          "path": [
+            "sr",
+            "uzivo",
+            "sport",
+            "all"
+          ]
+        },
+        {
+          "url": "https://www.mozzartbet.com/sr/slotovi/",
+          "path": [
+            "sr",
+            "slotovi",
+            ""
+          ]
+        },
+        {
+          "url": "https://www.mozzartbet.com/sr/igre-uzivo/",
+          "path": [
+            "sr",
+            "igre-uzivo",
+            ""
+          ]
+        },
+        {
+          "url": "https://www.mozzartbet.com/sr/landing-virtuals",
+          "path": [
+            "sr",
+            "landing-virtuals"
+          ]
+        }
+      ]
+    }
+  ]
+}

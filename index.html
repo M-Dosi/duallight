@@ -6,12 +6,68 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/bootstrap.css">
-    <title>Document</title>
+    <title>Duallighthouse </title>
+    <!-- -<:3{ }~ -->
+
 </head>
 
 <body>
-    <button id="auditBtn" class="btn btn-primary">Create audit</button>
+
+
+    <header class="bg-black text-white">
+        <!-- Main Heading with Custom Gradient Mask -->
+        <h1 class="duallight m-0 ps-4 pe-4 pt-2 pb-2">Duallighthouse</h1>
+        <div class="dual-lighthouse">
+            <div class="lh1"></div>
+            <div class="lh2"></div>
+        </div>
+        <div id="container"></div>
+        <!-- Flexbox Layout for Form and Button -->
+        <div class=" pb-4 ps-4 pe-4 d-flex flex-column flex-sm-row  justify-content-between">
+            <!-- Form with Checkboxes -->
+            <form class="d-flex flex-column flex-sm-row gap-3 ">
+                <label class="d-flex align-items-center">
+                    <input type="checkbox" id="seo" name="onlyCategories" value="seo">
+                    SEO
+                </label>
+                <label class="d-flex align-items-center">
+                    <input type="checkbox" id="performance" name="onlyCategories" value="performance">
+                    Performance
+                </label>
+                <label class="d-flex align-items-center">
+                    <input type="checkbox" id="accessibility" name="onlyCategories" value="accessibility">
+                    Accessibility
+                </label>
+                <label class="d-flex align-items-center">
+                    <input type="checkbox" id="best-practices" name="onlyCategories" value="best-practices">
+                    Best Practices
+                </label>
+            </form>
+
+            <!-- Create Audit Button -->
+            <button id="auditBtn" class=" btn auditBtn w-25 w-auto">Create audit</button>
+        </div>
+    </header>
+    <div class="p-4">
+
+        <div class="d-flex justify-content-between align-items-center">
+            <label class="audit-label">Audit Reports </label>
+            <div class="d-flex justify-content-between url-button-wrap align-items-center">
+                <label>Sort by: &nbsp; </label>
+                <button id="sortByDate" class="btn  w-auto me-1 active"> </button>
+                <button id="sortByDomain" class="btn  w-auto"> </button>
+            </div>
+
+        </div>
+        <div id="reports"></div>
+    </div>
+
+
+
+
+
     <script src="/script.js" type="module"></script>
+
 </body>
 
 </html>
